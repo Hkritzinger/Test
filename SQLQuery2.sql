@@ -1,0 +1,1 @@
+Select * from datawarehouse.dbo.fctsales
